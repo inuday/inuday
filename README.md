@@ -41,7 +41,7 @@ $${\color{#717170} Pleaseㅤdon'tㅤcopyㅤmyㅤskins; ㅤinspoㅤisㅤokay.}$$
 $${\color{#4c505f} Usuallyㅤsittingㅤbyㅤdocks, ㅤlibrary, ㅤorㅤatㅤaㅤregi...}$$
     <br>
     
-$${\color{#717170} Thankㅤyou}$$ㅤ [pt-walk-of-fame!](https://github.com/pt-walk-of-fame)
+$${\color{#717170} Thankㅤyou}$$ㅤ [pt-walk-of-fame](https://github.com/pt-walk-of-fame),ㅤ  [pt-players](https://github.com/pt-players)!
 
   </details>
   </td>
